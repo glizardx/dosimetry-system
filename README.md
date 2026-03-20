@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="frontend/public/logo.png" alt="Logo" width="180"/>
-
 # Noise Dosimetry Report System
 
 **End-to-end platform for occupational noise dosimetry management**  
