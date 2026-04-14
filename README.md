@@ -170,4 +170,4 @@ See [`.env.example`](.env.example) for all required variables.
 
 **Guilherme Lizardo**  
 Data Analyst & Backend Developer  
-[linkedin.com/in/glizardx](https://linkedin.com/in/glizardx) · glizardo171@gmail.com
+glizardo171@gmail.com
